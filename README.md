@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Fuego en el agua |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-el-agua/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Fuego en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-agua/) |
+| **Get License** | [Official Music Licensing for Fuego en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-agua/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime qué hacemos con toda esta llama
-> Tú me provocas, mi cuerpo te aclama
-> Somos la fiebre que enciende la sal
-> Fuego en el agua, un deseo mortal
+> Fuego en el agua, burning in the night
+> Your body's calling, pulling me inside
+> Fuego en el agua, you're my only vice
+> Dame tu calor, let me make you mine tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
