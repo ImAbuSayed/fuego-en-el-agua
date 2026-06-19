@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Fuego en
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:31:59.606653 | `v1` | `b85e73dc779aa1ccdaf6cec392ee38c19af90887b0813a9f1ed3366990297ce0` | `1aeec7c583bd5c6a81655359a89db03123b92196129173612fd57fdcb13fc834` | `2026-06-20_fuego-en-el-agua-v1.txt` |
+| 2026-06-20T00:42:02.265827 | `v2` | `68d4df725d90215942314e2ce693ac2134aeaf140d25d5b0ab95c07793fa1c56` | `27e45b8eb373419c0ba9803dbb1da7c698084afaa6cc5d32b58388cf4fd476d9` | `2026-06-20_fuego-en-el-agua-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
