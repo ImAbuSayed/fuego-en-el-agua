@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-el-agua/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Fuego en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-agua/) |
+| **Get License** | [Commercial Licensing for Fuego en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-agua/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime qué hacemos con toda esta llama
+> Tú me provocas, mi cuerpo te aclama
+> Somos la fiebre que enciende la sal
+> Fuego en el agua, un deseo mortal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
