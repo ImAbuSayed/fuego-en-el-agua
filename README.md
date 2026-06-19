@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-el-agua/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Fuego en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-agua/) |
+| **Get License** | [Obtain a Music License for Fuego en el agua](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-agua/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3710)
+- [Telegram](https://t.me/AbuSayedMusic/3715)
 
 ---
 
